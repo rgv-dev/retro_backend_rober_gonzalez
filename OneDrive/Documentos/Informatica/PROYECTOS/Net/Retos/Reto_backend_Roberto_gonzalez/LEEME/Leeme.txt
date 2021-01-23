@@ -1,0 +1,11 @@
+﻿Buenas tardes,
+
+Este fichero es solo para comentaros que, se agradece mucho este evento ya que es mi 1º vez que participo en el, sobretodo es un placer participar aunque mi intención es solo por diversión ya que me interesaba hacer este pequeño desarrollo.
+Espero que este ejercicio de backend es lo que solicitais, ya se que era prioritario hacerlo en PHP pero mi experiencia profesional se basa en .NET os pido disculpas, os agradeceria mucho si el ejercicios es correcto o no, para ello os dejo mi link
+de linkein y si podeis enviarme un mensaje con el resultado os lo agradeceria mucho.
+
+Muchas gracias.
+
+PDO: solo lo he realizado por diversión para hacerlo no me tengais encuenta para la puntuación :).
+
+Un saludo.
